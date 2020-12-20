@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ChemiCleanFiles</name>
+    </assembly>
+    <members>
+        <member name="M:ChemiCleanFiles.Program.Main(System.String)">
+            <summary>
+            Refresh the DB
+            </summary>
+            <param name="outputDirPath"> The output path</param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChemiCleanFiles", "ChemiCleanFiles.csproj", "{B9FADFE3-C26D-4BEB-89EF-420A3D25F3C6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2DC76A29-AA27-40AD-9968-58A8C89AAA79}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FADFE3-C26D-4BEB-89EF-420A3D25F3C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FADFE3-C26D-4BEB-89EF-420A3D25F3C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FADFE3-C26D-4BEB-89EF-420A3D25F3C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FADFE3-C26D-4BEB-89EF-420A3D25F3C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6366D821-0113-445D-A786-498C621796E5}
+	EndGlobalSection
+EndGlobal
